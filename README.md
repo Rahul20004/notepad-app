@@ -175,7 +175,7 @@ When the **Save icon** is clicked:
 
 ## 👨‍💻 Author
 
-**Rahul**
+**Rahul Gupta**
 
 B.Tech – Computer Science
 
